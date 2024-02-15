@@ -1,4 +1,6 @@
 .footer-container{
     background-color: black;
     color: white;
+    height: 80px;
+    padding: 10px;
 }

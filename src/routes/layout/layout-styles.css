@@ -1,11 +1,14 @@
-.container{
+.main-page-container{
     height: 100vh;
     width: 100%;
     overflow: hidden;
     display: flex;
     flex-direction: column;
+    
 }
 
 .layout-container{
     background-color: blue;
+    height: calc(100% - 80px);
+    padding: 10px;
 }

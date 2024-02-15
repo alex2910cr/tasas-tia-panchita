@@ -8,7 +8,7 @@ import "./layout-styles.css"
 const Layout = () =>{
     return(
         <Fragment>
-            <div className="container">
+            <div className="main-page-container">
                 <Header/>
                 <div className="layout-container">
                     <Outlet/>

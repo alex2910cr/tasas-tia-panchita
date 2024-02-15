@@ -7,6 +7,8 @@ import Layout from "./routes/layout/layout-conteiner"
 import Home from "./routes/home/home-container"
 import Testing from './routes/testing/testing-container';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const App = () => {
   return (
